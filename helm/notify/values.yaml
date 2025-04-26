@@ -1,0 +1,12 @@
+
+discord:
+  publicKey: "TEST"
+  appID: "TEST"
+  token: "TEST"
+  guildID: "TEST"
+
+# image:
+#   repository: nginx
+#   pullPolicy: IfNotPresent
+#   tag: ""
+
